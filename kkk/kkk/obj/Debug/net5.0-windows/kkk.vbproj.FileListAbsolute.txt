@@ -1,0 +1,7 @@
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.vbproj.AssemblyReference.cache
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.frmcalculator.resources
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.vbproj.GenerateResource.cache
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.AssemblyInfoInputs.cache
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.AssemblyInfo.vb
+C:\Users\john9\source\repos\kkk\kkk\obj\Debug\net5.0-windows\kkk.vbproj.CoreCompileInputs.cache
